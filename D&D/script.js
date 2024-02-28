@@ -1,3 +1,4 @@
+//Ignore this file
 const wordText = document.querySelector(".word"),
 hintText = document.querySelector(".hint span"),
 timeText = document.querySelector(".time b"),
